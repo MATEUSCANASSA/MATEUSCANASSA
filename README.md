@@ -13,3 +13,9 @@
   <img align="center" alt="" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg'>
   <img align="center" alt="" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
 </div>
+
+<div>
+<br><p align="centre"><b>Profile Access:</b></p>  
+<p><img src="https://profile-counter.glitch.me/{MATEUSCANASSA}/count.svg" /></p> 
+<br>
+</div>
