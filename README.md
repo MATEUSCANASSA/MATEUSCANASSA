@@ -1,7 +1,7 @@
 # Welcome to my profile!
 
 ## About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50ad03&size=35&center=false&vCenter=false&width=1000&lines=HELLO,+My+name+is+Mateus+Canassa;I'm+27+years+old;I'm+from+Brazil;Accountant,+Administrator,+aspiring+developer;Be+Welcome!+:%29)](https://git.io/typing-svg) <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50ad03&size=35&center=false&vCenter=false&width=1000&lines=HELLO,+My+name+is+Mateus+Canassa;I'm+27+years+old;I'm+from+Brazil;Accountant,+Administrator,+aspiring+developer;Be+Welcome!+:%29)](https://git.io/typing-svg) <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=60% />
 <br />
 
 
